@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with practical knowledge
 - 💬 Ask me about ...
 - 📫 How to reach me: S555592@nwmissouri.edu
-- 😄 Pronouns: she/her/hers
+- 😄 Pronouns: she/hers/her
 - ⚡ Fun fact: A shrimp's heart is in its head
 -->
