@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
 **Pravallika-Mummadi/Pravallika-Mummadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Github,Git,Markdown 
 - 🌱 I’m currently learning Master's in Applied Computer Science 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: S555592@nwmissouri.edu
 - 😄 Pronouns: she/hers/her
 - ⚡ Fun fact: A shrimp's heart is in its head
--->
+
